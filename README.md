@@ -43,7 +43,9 @@ Plot the predictions for visualization.
 ```
 Developed By: POOJA A
 Register No: 212222240072
+```
 
+```python
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
